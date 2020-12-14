@@ -1,6 +1,6 @@
 <h1> Salve, Braga aqui! 👨‍💻 </h1>
-<h2> Sobre mim: </h2>
 <hr>
+<h2> Sobre mim: </h2>
 <h3> 
   <ul>
     <li>Tenho 15 anos.</li>
