@@ -11,7 +11,8 @@
        <br>Programação web
        <br>Desenvolvimento de aplicações desktop com interface grafica (sobretudo usando o tkinter ou kinvy)
     </li>
-    <li>Estou disposto a contribuir com projetos que envolvam o desenvolvimento de ferramentas na area de pentesting.</li>
+    <li>Estou disposto a contribuir com projetos que envolvam o desenvolvimento de ferramentas na area de pentesting e segurança.</li>
+    <li>Sempre disposto a aprender.</li>
     <li>Meu discord: 𝔅𝔯𝔞𝔤𝔞#3184 </li>
   </ul>
 </h3>
