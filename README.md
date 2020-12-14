@@ -8,7 +8,7 @@
     <li>Áreas de interesse:
        <br>💻 Hacking/pentest
        <br>📶 Redes
-       <br> <img href="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" height= 16px width=16px \> Programação web
+       <br><img href="https://user-images.githubusercontent.com/72901999/102138839-c429d300-3e3b-11eb-89ff-b809339b4c51.png" height=16px width=16px>Programação web
        <br> <img href="https://www.dlf.pt/png/big/25/250704_windows-logo-png.png" height= 16px width= 16px \> Desenvolvimento de aplicações desktop com interface grafica 
       (sobretudo usando o tkinter ou kinvy)
     </li>
