@@ -3,7 +3,7 @@
 <h2> Sobre mim: </h2>
 <h3> 
   <ul>
-    <li>Tenho 15 anos.</li>
+    <li>Tenho 16 anos.</li>
     <li>Linguagens que atualmente estudo: Python🐍</li> 
     <li>Áreas de interesse:
        <br>Hacking/pentest
