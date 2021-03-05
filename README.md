@@ -18,3 +18,4 @@
   </ul>
 </h3>
 <img src='https://github-readme-stats.vercel.app/api?username=Braga451&theme=vision-friendly-dark'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Braga451&layout=compact&theme=vision-friendly-dark'>
