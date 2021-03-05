@@ -1,6 +1,5 @@
 <h1> Salve, Braga aqui! 👨‍💻 </h1>
 <a href='https://www.linkedin.com/in/-arthur-braga-/'><img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg'></a>
-<hr>
 <h2> Sobre mim: </h2>
 <h3> 
   <ul>
