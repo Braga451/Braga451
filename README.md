@@ -1,4 +1,5 @@
 <h1> Salve, Braga aqui! 👨‍💻 </h1>
+<a href='https://www.linkedin.com/in/-arthur-braga-/'><img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg'></a>
 <hr>
 <h2> Sobre mim: </h2>
 <h3> 
@@ -14,7 +15,6 @@
     <li>Estou disposto a contribuir com projetos que envolvam o desenvolvimento de ferramentas na area de pentesting e segurança.</li>
     <li>Sempre disposto a aprender.</li>
     <li>Meu discord: 𝔅𝔯𝔞𝔤𝔞#3184 </li>
-    <li><a href='https://www.linkedin.com/in/-arthur-braga-/'>Linkedin</a></li>
   </ul>
 </h3>
 <img src='https://github-readme-stats.vercel.app/api?username=Braga451&theme=vision-friendly-dark'>
