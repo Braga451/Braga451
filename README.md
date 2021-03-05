@@ -17,5 +17,4 @@
     <li><a href='https://www.linkedin.com/in/-arthur-braga-/'>Linkedin</a></li>
   </ul>
 </h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braga451&theme=highcontrast)](https://github.com/Braga451/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api?username=Braga451&theme=vision-friendly-dark'>
