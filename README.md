@@ -14,5 +14,7 @@
     <li>Estou disposto a contribuir com projetos que envolvam o desenvolvimento de ferramentas na area de pentesting e segurança.</li>
     <li>Sempre disposto a aprender.</li>
     <li>Meu discord: 𝔅𝔯𝔞𝔤𝔞#3184 </li>
+    <li><a href='https://www.linkedin.com/in/-arthur-braga-/'>Linkedin</a></li>
   </ul>
 </h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braga451)](https://github.com/Braga451/github-readme-stats)
