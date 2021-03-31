@@ -7,7 +7,7 @@
     <li>Áreas de interesse:
        <br>Hacking/pentest
        <br>Redes
-       <br>Programação web
+       <br>Programação web (sobretudo, backend)
     </li>
     <li>Estou disposto a contribuir com projetos que envolvam o desenvolvimento de ferramentas na area de pentesting e segurança.</li>
     <li>Sempre disposto a aprender.</li>
