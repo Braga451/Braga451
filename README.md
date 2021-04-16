@@ -9,9 +9,8 @@
        <br>Redes
        <br>Programação web (sobretudo, backend)
     </li>
-    <li>Estou disposto a contribuir com projetos que envolvam o desenvolvimento de ferramentas na area de pentesting e segurança.</li>
+    <li>Estou disposto a contribuir com projetos que envolvam o desenvolvimento de ferramentas na area de segurança, redes e back-end.</li>
     <li>Sempre disposto a aprender.</li>
-    <li>Meu discord: 𝔅𝔯𝔞𝔤𝔞#3184 </li>
   </ul>
 </h3>
 <img src='https://github-readme-stats.vercel.app/api?username=Braga451&theme=vision-friendly-dark'>
