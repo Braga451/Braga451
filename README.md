@@ -9,7 +9,6 @@
        <br>Redes
        <br>Programação web (sobretudo, backend)
     </li>
-    <li>Estou disposto a contribuir com projetos que envolvam o desenvolvimento de ferramentas na area de segurança, redes e back-end.</li>
     <li>Sempre disposto a aprender.</li>
   </ul>
 </h3>
