@@ -1,4 +1,6 @@
-<img src='./banner_github.jpg'>
+<div align="center">
+  <img src='./banner_github.jpg'>
+</div>
 <h2> Sobre mim: </h2>
 <h3>
   <ul>
@@ -12,6 +14,9 @@
     <li>Sempre disposto a aprender.</li>
   </ul>
 </h3>
+<div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=Braga451&theme=vision-friendly-dark'>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Braga451&layout=compact&theme=vision-friendly-dark'>
 <a href='https://www.linkedin.com/in/-arthur-braga-/'><img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg'></a>
+<img src="https://github.com/Braga451/Braga451/blob/output/github-snake-dark.svg">
+</div>
