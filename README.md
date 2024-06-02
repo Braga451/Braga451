@@ -2,8 +2,8 @@
 # About me:
 - 19 years old
 - Computer science student at Pontifical Catholic University of Minas Gerais (PUC-MG)
-- Currently studing: C, C++, Java
--  Main interestings:
+- Currently studying: C, C++, Java
+-  Main interests:
     - Backend developing  
     - Cryptography
     - Math
