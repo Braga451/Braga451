@@ -1,22 +1,15 @@
-<div align="center">
-  <img src='./banner_github.jpg'>
-</div>
-<h2> Sobre mim: </h2>
-<h3>
-  <ul>
-    <li>Tenho 18 anos.</li>
-    <li>Linguagens que atualmente estudo: Python, PHP, C</li> 
-    <li>Áreas de interesse:
-       <br>Hacking/pentest
-       <br>Redes
-       <br>Programação web (sobretudo, backend)
-    </li>
-    <li>Sempre disposto a aprender.</li>
-  </ul>
-</h3>
-<div align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=Braga451&theme=vision-friendly-dark' width="50%">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Braga451&layout=compact&theme=vision-friendly-dark' width="43%">
-  <!--<a href='https://www.linkedin.com/in/-arthur-braga-/'><img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg'></a>!-->
-  <img src="https://github.com/Braga451/Braga451/blob/output/github-snake-dark.svg">
-</div>
+![banner](banner_github.jpg)
+# About me:
+- 19 years old
+- Computer science student at Pontifical Catholic University of Minas Gerais (PUC-MG)
+- Currently studing: C, C++, Java
+-  Main interestings:
+    - Backend developing  
+    - Cryptography
+    - Math
+    - Cybersecurity
+    - Networking
+
+![github_stats](https://github-readme-stats.vercel.app/api?username=Braga451&theme=vision-friendly-dark)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braga451&layout=compact&theme=vision-friendly-dark )
+![snake](https://github.com/Braga451/Braga451/blob/output/github-snake-dark.svg)
+## **Et propter vitam vivendi perdere causas**
